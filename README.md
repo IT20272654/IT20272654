@@ -1,14 +1,15 @@
 <h1 align="center">🌟 Hi I'm Shavindu Rajapaksha | Welcome to My GitHub Profile 🌟</h1>
 
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29F7C0&width=800&lines=Full-Stack+Developer+%7C+Tech+Enthusiast;Innovating+One+Line+of+Code+at+a+Time+💡;Open-Source+Contributor+%7C+Collaborator+🤝;Passionate+about+Building+Scalable+Apps+and+Systems;Exploring+AI%2C+Blockchain%2C+and+Web3+Technologies;Continuous+Learning+and+Personal+Growth+🚀)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=29F7C0&width=800&lines=Full-Stack+Developer+%7C+Mobile+App+Developer;Passionate+about+Building+Scalable+Apps+and+Systems;Exploring+AI%2C+Blockchain%2C+and+Web3+Technologies;Continuous+Learning+and+Personal+Growth+🚀">
+</p>
 
 
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer at Work" width="600" />
-</div>  
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="720" height="405" />
+</p>
 
 
 
@@ -49,9 +50,7 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="720" height="405" />
-</p>
+
 
 ## 🛠️ **Tools**
 
