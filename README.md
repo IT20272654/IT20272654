@@ -67,70 +67,70 @@
 
 # Projects Portfolio
 
-## 1. [Travel-Sri Lanka (Individual)](https://github.com/IT20272654/Travel-Sri-Lanka) - **Present**
+## 10. [Travel-Sri Lanka (Individual)](https://github.com/IT20272654/Travel-Sri-Lanka) - **Present**
 A website for foreigners to explore the best places to visit in Sri Lanka and find available hotels.
 
 - **Tech Stack:** MERN Stack
 
 ---
 
-## 2. [Simple Mobile BMI Calculator (Individual)](https://github.com/IT20272654/Simple-BMI-Calculator) - **2024**
+## 9. [Simple Mobile BMI Calculator (Individual)](https://github.com/IT20272654/Simple-BMI-Calculator) - **2024**
 A simple mobile app to quickly calculate BMI by entering weight and height.
 
 - **Tech Stack:** Flutter
 
 ---
 
-## 3. [Job Recruitment Web Application (Group)](https://github.com/IT20272654/Job-Recruitment) - **2024**
+## 8. [Job Recruitment Web Application (Group)](https://github.com/IT20272654/Job-Recruitment) - **2024**
 A digital platform to advertise job openings and allow candidates to search and apply directly.
 
 - **Tech Stack:** MERN Stack
 
 ---
 
-## 4. [Salary Calculator (Individual)](https://github.com/IT20272654/salary-calculator-2024-Q1-IT20272654) - **2024**
+## 07. [Salary Calculator (Individual)](https://github.com/IT20272654/salary-calculator-2024-Q1-IT20272654) - **2024**
 A salary calculator that computes EPF, ETF, and APIT based on basic salary and other income.
 
 - **Tech Stack:** React.js
 
 ---
 
-## 5. [Plastic Company (Individual)](https://github.com/IT20272654/Plastic_Company) - **2024**
+## 06. [Plastic Company (Individual)](https://github.com/IT20272654/Plastic_Company) - **2024**
 A full-stack website for a plastic company producing high-quality products for various industries.
 
 - **Tech Stack:** React.js (Frontend), Firebase (Backend)
 
 ---
 
-## 6. [COURIER MANAGEMENT SYSTEM (Group)](https://github.com/Pavith00/COURIER_MANAGEMENT_SYSTEM) - **2023**
+## 05. [COURIER MANAGEMENT SYSTEM (Group)](https://github.com/Pavith00/COURIER_MANAGEMENT_SYSTEM) - **2023**
 A desktop application for managing courier operations.
 
 - **Tech Stack:** Visual Basic with C# (.Net)
 
 ---
 
-## 7. [Kaley Ice Cream Web Application (Group)](https://github.com/ThiroshMadhusha/KaleyIceCream) - **2022**
+## 04. [Kaley Ice Cream Web Application (Group)](https://github.com/ThiroshMadhusha/KaleyIceCream) - **2022**
 An inventory, sales, and employee management system with CRUD operations.
 
 - **Tech Stack:** MERN Stack
 
 ---
 
-## 8. [Electro Grid System Application (Group)](https://github.com/ThiroshMadhusha/ElectroGridSystem) - **2022**
+## 03. [Electro Grid System Application (Group)](https://github.com/ThiroshMadhusha/ElectroGridSystem) - **2022**
 A Java Maven project for Electro Grid System, focusing on bill, customer, and payment management systems.
 
 - **Tech Stack:** Java
 
 ---
 
-## 9. [Tea Factory Management System - Client Project (Group)](https://github.com/SLIIT-My-Projects-Works/Tea-Factory-Management-System-Client-Project) - **2021**
+## 02. [Tea Factory Management System - Client Project (Group)](https://github.com/SLIIT-My-Projects-Works/Tea-Factory-Management-System-Client-Project) - **2021**
 A full-stack website for managing tea factory operations.
 
 - **Tech Stack:** Python (Django Framework)
 
 ---
 
-## 10. [MAD Project - Team Delta (Group)](https://github.com/Shenal99/MAD-Project-Team-Delta) - **2021**
+## 01. [MAD Project - Team Delta (Group)](https://github.com/Shenal99/MAD-Project-Team-Delta) - **2021**
 A mobile application for pet care, allowing users to buy pet-related items and find pet care services.
 
 - **Tech Stack:** Java (Android Studio)
