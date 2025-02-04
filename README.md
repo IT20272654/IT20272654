@@ -22,7 +22,7 @@
 
 
 
-## 🛠️ **Toolbox & Tech Stack**  
+## 🛠️ **Tech Stack**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -64,78 +64,6 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
-
-## 👨🏽‍💻 **Projects Portfolio**
-
-### 10. [Travel-Sri Lanka](https://github.com/IT20272654/Travel-Sri-Lanka) - **Present**
-A website for foreigners to explore the best places to visit in Sri Lanka and find available hotels.
-
-- **Tech Stack:** MERN Stack
-
----
-
-### 09. [Simple Mobile BMI Calculator](https://github.com/IT20272654/Simple-BMI-Calculator) - **2024**
-A simple mobile app to quickly calculate BMI by entering weight and height.
-
-- **Tech Stack:** Flutter
-
----
-
-### 08. [Job Recruitment Web Application](https://github.com/IT20272654/Job-Recruitment) - **2024**
-A digital platform to advertise job openings and allow candidates to search and apply directly.
-
-- **Tech Stack:** MERN Stack
-
----
-
-### 07. [Salary Calculator](https://github.com/IT20272654/salary-calculator-2024-Q1-IT20272654) - **2024**
-A salary calculator that computes EPF, ETF, and APIT based on basic salary and other income.
-
-- **Tech Stack:** React.js
-
----
-
-### 06. [Plastic Company](https://github.com/IT20272654/Plastic_Company) - **2024**
-A full-stack website for a plastic company producing high-quality products for various industries.
-
-- **Tech Stack:** React.js (Frontend), Firebase (Backend)
-
----
-
-### 05. [COURIER MANAGEMENT SYSTEM](https://github.com/Pavith00/COURIER_MANAGEMENT_SYSTEM) - **2023**
-A desktop application for managing courier operations.
-
-- **Tech Stack:** Visual Basic with C# (.Net)
-
----
-
-### 04. [Kaley Ice Cream Web Application](https://github.com/ThiroshMadhusha/KaleyIceCream) - **2022**
-An inventory, sales, and employee management system with CRUD operations.
-
-- **Tech Stack:** MERN Stack
-
----
-
-### 03. [Electro Grid System Application](https://github.com/ThiroshMadhusha/ElectroGridSystem) - **2022**
-A Java Maven project for Electro Grid System, focusing on bill, customer, and payment management systems.
-
-- **Tech Stack:** Java
-
----
-
-### 02. [Tea Factory Management System - Client Project](https://github.com/SLIIT-My-Projects-Works/Tea-Factory-Management-System-Client-Project) - **2021**
-A full-stack website for managing tea factory operations.
-
-- **Tech Stack:** Python (Django Framework)
-
----
-
-### 01. [MAD Project - Team Delta](https://github.com/Shenal99/MAD-Project-Team-Delta) (Group)- **2021**
-A mobile application for pet care, allowing users to buy pet-related items and find pet care services.
-
-- **Tech Stack:** Java (Android Studio)
-
----
 
 
 
