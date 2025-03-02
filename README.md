@@ -49,7 +49,7 @@
 </p>
 
 
-## 🐍 **Snake Eat my Contribution** --
+## 🐍 **Snake Eat my Contribution** 
 <p align="center">
   <a href="https://github.com/IT20272654/">
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
