@@ -18,7 +18,7 @@
 I am a determined and inspired undergraduate, pursuing a Physical Science major in Computer Science at the University of Kelaniya and Information Technology at SLIIT. With a diverse skill set gained through experience, I am well-equipped to tackle challenges and excel in every task I undertake. Passionate about continuous learning and growth, I am eager to expand my expertise and explore new opportunities through an internship that allows me to apply my skills and drive innovation.
 
 💡 **Mission**: _"Crafting solutions, one line at a time."_  
-🌍 **Tech Stack**: MERN Stack, Django + React.  
+🌍 **Tech Stack**: MERN Stack, Django + React, Flutter.  
 🎯 **Focus**: Embracing the future with AI, Blockchain, and full-stack development.  
 🚀 **Always Learning**: Continuously exploring new tech trends to innovate and create.  
 
