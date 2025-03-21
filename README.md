@@ -53,6 +53,11 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
 <br />
 </p>
 
+## 🚀 **Activity Graph**
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=it20272654&theme=react-dark"/>
+
+
 
 ## 🌐 **Current Focus Areas**  
 
