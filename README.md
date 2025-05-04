@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi I'm Shavindu Rajapaksha | Welcome to My GitHub Profile 🌟</h1>
+<h1 align="center">Hi I'm Shavindu Rajapaksha | Welcome to My GitHub Profile</h1>
 
 
 <p align="center">
