@@ -8,18 +8,18 @@
 
 
 
-## 🚀 About Me  
+##  About Me  
 
 I am a determined and inspired undergraduate, pursuing a Physical Science major in Computer Science at the University of Kelaniya and Information Technology at SLIIT. With a diverse skill set gained through experience, I am well-equipped to tackle challenges and excel in every task I undertake. Passionate about continuous learning and growth, I am eager to expand my expertise and explore new opportunities through an internship that allows me to apply my skills and drive innovation.
 
-💡 **Mission**: _"Crafting solutions, one line at a time."_  
-🌍 **Tech Stack**: MERN Stack, Django + React, Flutter.  
-🎯 **Focus**: Embracing the future with AI, Blockchain, and full-stack development.  
-🚀 **Always Learning**: Continuously exploring new tech trends to innovate and create.  
+ **Mission**: _"Crafting solutions, one line at a time."_  
+ **Tech Stack**: MERN Stack, Django + React, Flutter.  
+ **Focus**: Embracing the future with AI, Blockchain, and full-stack development.  
+ **Always Learning**: Continuously exploring new tech trends to innovate and create.  
 
 
 
-## 🛠️ **Tech Stack**  
+##  **Tech Stack**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,7 +32,7 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
 </p>
 
 
-## 🛠️ **Tools**
+##  **Tools**
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -46,20 +46,20 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
 </p>
 
 
-## 🐍 **Snake Eat my Contribution** 
+##  **Snake Eat my Contribution** 
 <p align="center">
   <a href="https://github.com/IT20272654/">
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
 <br />
 </p>
 
-## 🚀 **Contribution Graph**
+##  **Contribution Graph**
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=it20272654&theme=react-dark"/>
 
 
 
-## 🌐 **Current Focus Areas**  
+##  **Current Focus Areas**  
 
 - **Exploring**: Cross-platform mobile app development with Flutter.  
 - **Building**: Scalable front-end applications using React.  
