@@ -57,9 +57,9 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
     </td>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Simple-BMI-Calculator</a>  </strong><code>Public</code><br>
-      Helps to find out the BMI value.<br>
-      <code>🔵Flutter</code> <code>🟤Dart </code><br><br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Hospitality-cicd-test</a>  </strong><code>Public</code><br>
+      This project demonstrates CI/CD integration by automating the build, test, and deployment process to deliver software more efficiently and reliably.<br>
+      <code>🟢GitHub</code> <code>🟣CI-CD Pipeline </code> <br><br>
     </td>
   </tr>
   
@@ -113,13 +113,13 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
       <br>
       <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-User-Development Part II</a>  </strong><code>Private</code><br>
       MERN stack-based web application designed for user access control. <br>
-      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD/code><br><br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD</code><br><br>
     </td>
     <td width="50%" valign="top">
       <br>
       <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-Admin-Development Part II</a>  </strong><code>Private</code><br>
       MERN stack-based web application designed for user access control. <br>
-      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD/code><br><br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD</code><br><br>
     </td>
   </tr>
   
@@ -170,9 +170,9 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
   <tr>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Job-Recruitment">Hospitality-cicd-test</a>  </strong><code>Public</code><br>
-      This project demonstrates CI/CD integration by automating the build, test, and deployment process to deliver software more efficiently and reliably.<br>
-      <code>🟢GitHub</code> <code>🟣CI-CD Pipeline </code> <br><br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Simple-BMI-Calculator</a>  </strong><code>Public</code><br>
+      A mobile appication which helps to find out the BMI value.<br>
+      <code>🔵Flutter</code> <code>🟤Dart </code><br><br>
     </td>
     <td width="50%" valign="top">
       <br>
