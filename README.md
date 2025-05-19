@@ -45,6 +45,13 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
+##  **My Contribution** 
+<p align="center">
+  <a href="https://github.com/IT20272654/">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+<br />
+</p>
+
 ##  **All Projects I've Collaborated On**
 <table>
          
@@ -228,14 +235,6 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
   </tr>
 </table>
 
-
-
-##  **My Contribution** 
-<p align="center">
-  <a href="https://github.com/IT20272654/">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
-<br />
-</p>
 
 ##  **Contribution Graph**
 
