@@ -47,21 +47,7 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
 
 ##  **All Projects I've Collaborated On**
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <strong><a href="https://github.com/your-username/Job-Recruitment">Augmented-Reality-Based-Mobile-Application</a>  </strong><code>Public</code><br>
-      AR based mobile application.<br>
-      <code>⚪Unity</code> <code>🟢MERN Stack</code><br><br>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Automation-Testing-Cypress</a>  </strong><code>Public</code><br>
-      Testing Mern Stack Project.<br>
-      <code>🔵Cypress</code> <code>🟤Dart </code><br><br>
-    </td>
-  </tr>
-        
+         
   <tr>
     <td width="50%" valign="top">
       <br>
@@ -92,6 +78,66 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
     </td>
   </tr>
   
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Augmented-Reality-Based-Mobile-Application</a>  </strong><code>Public</code><br>
+      AR based mobile application.<br>
+      <code>⚪Unity</code> <code>🟢MERN Stack</code><br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Automation-Testing-Cypress</a>  </strong><code>Public</code><br>
+      Testing Mern Stack Project.<br>
+      <code>🔵Cypress</code> <code>🟤Dart </code><br><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">SLTDigitalLab/Secure-Pass-AI-User-App</a>  </strong><code>Private</code><br>
+      SecurepassAI-Admin-Development is a MERN stack-based web application. It consists of a frontend built with React and a backend powered by Express.js and MongoDB. The application provides an admin panel for managing secure access control. <br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD</code><br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">SLTDigitalLab/Secure-Pass-AI-Admin-App</a>  </strong><code>Private</code><br>
+      SecurepassAI-Admin-Development is a MERN stack-based web application. It consists of a frontend built with React and a backend powered by Express.js and MongoDB. The application provides an admin panel for managing secure access control. <br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD</code><br><br>
+    </td>
+  </tr>
+        
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-User-Development Part II</a>  </strong><code>Private</code><br>
+      MERN stack-based web application designed for user access control. <br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD/code><br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-Admin-Development Part II</a>  </strong><code>Private</code><br>
+      MERN stack-based web application designed for user access control. <br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code>  <code>🔴CI CD/code><br><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-User-Development Part I</a>  </strong><code>Private</code><br>
+      MERN stack-based web application designed for user access control. <br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code><br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">QR-Face-Recognition-Door-Access-System-Admin-Development Part I</a>  </strong><code>Private</code><br>
+      MERN stack-based web application designed for user access control.<br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code>   <code>🟣Docker</code>  <code>🟠Caddy</code>  <code>🔵VM</code><br><br>
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <br>
@@ -170,7 +216,7 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
 
 
 
-##  **Snake Eat my Contribution** 
+##  **My Contribution** 
 <p align="center">
   <a href="https://github.com/IT20272654/">
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
