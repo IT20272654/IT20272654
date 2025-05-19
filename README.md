@@ -153,6 +153,20 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
     </td>
   </tr>
   
+   <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Plastic_Company</a>  </strong><code>Public</code><br>
+      This working full stack website is a digital platform that developed with React js for frontend framework and database as Firebase.<br>
+      <code>🟡JavaScript</code> <code>🟣Figma</code>  <code>🔵React</code> <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Kaley Tea</a>  </strong><code>Public</code><br>
+      Created an Inventory Management System, Sales Management System and Employee Management System.<br>
+      <code>🟡Python</code>  <code>🔵Django</code> <br><br>
+    </td>
+  </tr> 
   <tr>
     <td width="50%" valign="top">
       <br>
