@@ -50,15 +50,75 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
   <tr>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Job-Recruitment">Job-Recruitment</a>  </strong><code>Public</code><br>
-      This website is a digital platform that uses to advertise job openings and drive candidates to search and apply directly.<br>
-      <code>🟡JavaScript</code><br><br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Augmented-Reality-Based-Mobile-Application</a>  </strong><code>Public</code><br>
+      AR based mobile application.<br>
+      <code>⚪Unity</code> <code>🟢MERN Stack</code><br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Travel-Sri-Lanka</a></strong><br>
-      Explore Sri Lanka's landscapes and culture. Discover beaches, temples, markets, and more.<br>
-      <code>🟡JavaScript</code><br><br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Automation-Testing-Cypress</a>  </strong><code>Public</code><br>
+      Testing Mern Stack Project.<br>
+      <code>🔵Cypress</code> <code>🟤Dart </code><br><br>
+    </td>
+  </tr>
+        
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">AutoMecNet</a>  </strong><code>Public</code><br>
+      AutoMecNet is a Social Learning Management System (LMS) built for individuals passionate about automobiles.<br>
+      <code>🟡JavaScript</code> <code>🟢Springboot</code>  <code>🔵React</code> <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Simple-BMI-Calculator</a>  </strong><code>Public</code><br>
+      Helps to find out the BMI value.<br>
+      <code>🔵Flutter</code> <code>🟤Dart </code><br><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">CI-CD-Pipeline-Testing</a>  </strong><code>Public</code><br>
+      For CI CD Pipelining.<br>
+      <code>🟢GitHub</code> <code>🟣CI-CD Pipeline </code> <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">CI-CD-Pipeline-Testing-Part-II</a>  </strong><code>Public</code><br>
+      For CI CD Pipelining.<br>
+      <code>🟢GitHub</code> <code>🟣CI-CD Pipeline </code> <br><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Salary-Calculator</a>  </strong><code>Public</code><br>
+      The “Salary Calculator: Your Ultimate Wage Companion!” is designed to streamline your paycheck calculations. This app takes the guesswork out of determining your salary.<br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code> <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Travel-Sri-Lanka</a>  </strong><code>Public</code><br>
+      Explore Sri Lanka's stunning landscapes and rich culture on this travel website. Discover beaches, temples, markets, and more for an unforgettable journey.<br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code> <br><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Job-Recruitment">Hospitality-cicd-test</a>  </strong><code>Public</code><br>
+      This project demonstrates CI/CD integration by automating the build, test, and deployment process to deliver software more efficiently and reliably.<br>
+      <code>🟢GitHub</code> <code>🟣CI-CD Pipeline </code> <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Courier Management System</a>  </strong><code>Public</code><br>
+      This Courier Management System project aims to streamline and optimize courier operations by providing a digital platform for managing shipments, tracking packages, and handling bills.<br>
+      <code>⚪C#</code> <code>🔴.Net </code> <br><br>
     </td>
   </tr>
 
@@ -66,29 +126,29 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
     <td width="50%" valign="top">
       <br>
       <strong><a href="https://github.com/your-username/Job-Recruitment">Job-Recruitment</a>  </strong><code>Public</code><br>
-      This website is a digital platform that uses to advertise job openings and drive candidates to search and apply directly.<br>
-      <code>🟡JavaScript</code><br><br>
+      This website is a digital platform that use to advertise job openings, and drive and engage candidates to search and apply for these jobs directly through recruitment platform.<br>
+      <code>🟡JavaScript</code> <code>🟢MERN Stack</code>  <code>🔵React</code> <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Electro Grid System</a></strong><br>
-      Java MAVEN Project for Electro Grid System. Implement Our Backend Parts in Bill Management System, Customer Management System and Payment Management System. <br>
-      <code>🟡JavaScript</code><br><br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">KaleyIceCream</a>  </strong><code>Public</code><br>
+      Created an Inventory Management System, Sales Management System and Employee Management System. <br>
+      <code>🟡JavaScript</code> <code>🔴Ejs</code>  <code>🔵React</code> <br><br>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
       <br>
-      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Electro Grid System</a></strong><br>
+      <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">Electro Grid System</a>  </strong><code>Public</code><br>
       Java MAVEN Project for Electro Grid System. Implement Our Backend Parts in Bill Management System, Customer Management System and Payment Management System. <br>
-      <code>🟠Java</code> <code> 🟣Eclipes</code> <br><br>
+      <code>🟠Java</code>  <code>🟣Eclipes</code> <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
       <strong><a href="https://github.com/your-username/Travel-Sri-Lanka">MAD-Project-Team-Delta</a>  </strong><code>Public</code><br>
       A mobile application for pet lovers.<br>
-      <code>🟠Java 🟢Android Studio</code><br><br>
+      <code>🟠Java</code>  <code>🟢Android Studio</code> <br><br>
     </td>
   </tr>
 
@@ -97,13 +157,13 @@ I am a determined and inspired undergraduate, pursuing a Physical Science major 
       <br>
       <strong><a href="https://github.com/your-username/Job-Recruitment">Employee Management</a>  </strong><code>Public</code><br>
      Employee Management System.<br>
-      <code>🟠Java 🟣Eclipes</code><br><br>
+      <code>🟠Java</code> <code> 🟣Eclipes</code> <br><br>
     </td>
     <td width="50%" valign="top">
       <br>
       <strong><a href="https://github.com/your-username/Job-Recruitment">Customer Management</a>  </strong><code>Public</code><br>
      Costomer Management System.<br>
-      <code>🟠Java 🟣Eclipes</code><br><br>
+      <code>🟠Java</code>  <code>🟣Eclipes</code> <br><br>
     </td>
   </tr>
 </table>
