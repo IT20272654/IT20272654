@@ -269,13 +269,6 @@ Continuous learning and systematic optimization — building robust systems for 
 
 
 
-##  **Current Focus Areas**  
-
-- **Exploring**: Cross-platform mobile app development with Flutter.  
-- **Building**: Scalable front-end applications using React.  
-- **Learning**: Advanced React patterns and Flutter widget development.  
-
-
 
 
 
