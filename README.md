@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=29F7C0&width=800&lines=Full-Stack+Web+Developer+%7C+Mobile+App+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=29F7C0&width=800&lines=Full+Stack+Development+%7C+DevOps+Engineering">
 </p>
 
 
